@@ -1,6 +1,6 @@
 # AutoEIT Scoring System
 
-This project implements an automated scoring system for EIT (Engineering Interview Test) transcription responses. 
+This project implements an automated scoring system for EIT transcription responses. 
 It calculates a hybrid score (0–4) for each response based on:
 
 - Word overlap
